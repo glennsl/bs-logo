@@ -11,7 +11,10 @@
    viewBox="0 0 630 630"
    id="svg6218"
    sodipodi:docname="buckle-types-logo.svg"
-   inkscape:version="0.92.1 r">
+   inkscape:version="0.92.1 r"
+   inkscape:export-filename="/home/glennsl/dev.github/bs-logo/buckle-types-logo.png"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96">
   <metadata
      id="metadata6224">
     <rdf:RDF>
@@ -117,24 +120,4 @@ THE SOFTWARE.
        x="321.1947"
        y="573.26367"
        style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:357.95999146px;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke-width:8.94896889">'t</tspan></text>
-  <text
-     xml:space="preserve"
-     style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
-     x="640.67798"
-     y="1195.9323"
-     id="text6862"><tspan
-       sodipodi:role="line"
-       id="tspan6860"
-       x="640.67798"
-       y="1195.9323">|</tspan></text>
-  <text
-     xml:space="preserve"
-     style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
-     x="1222.6271"
-     y="806.18646"
-     id="text6866"><tspan
-       sodipodi:role="line"
-       id="tspan6864"
-       x="1222.6271"
-       y="806.18646">|</tspan></text>
 </svg>
