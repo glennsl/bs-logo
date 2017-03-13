@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   version="1.1"
+   viewBox="0 0 630 630"
+   id="svg6218"
+   sodipodi:docname="buckle-types-logo-buckle.svg"
+   inkscape:version="0.92.1 r"
+   inkscape:export-filename="/home/glennsl/dev.github/bs-logo/buckle-types-logo.png"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96">
+  <metadata
+     id="metadata6224">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs6222" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1920"
+     inkscape:window-height="1145"
+     id="namedview6220"
+     showgrid="false"
+     showguides="false"
+     inkscape:guide-bbox="true"
+     inkscape:zoom="0.26488445"
+     inkscape:cx="-430.63932"
+     inkscape:cy="381.39064"
+     inkscape:window-x="0"
+     inkscape:window-y="27"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg6218">
+    <sodipodi:guide
+       position="64.067797,344.36441"
+       orientation="0,1"
+       id="guide6790"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="165.16636,55.684659"
+       orientation="1,0"
+       id="guide6792"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="434.15158,49.078005"
+       orientation="0,1"
+       id="guide6794"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="580.44179,49.078005"
+       orientation="1,0"
+       id="guide6796"
+       inkscape:locked="false" />
+  </sodipodi:namedview>
+  <!--
+The MIT License (MIT)
+
+Copyright (c) 2011 Christopher Williams <chris@iterativedesigns.com>,
+                     Manuel Strehl <boldewyn@gmail.com>
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in
+all copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
+THE SOFTWARE.
+-->
+  <rect
+     style="fill:#199ad5;fill-opacity:1"
+     height="630"
+     width="630"
+     y="0"
+     x="0"
+     id="background"
+     inkscape:export-xdpi="96"
+     inkscape:export-ydpi="96" />
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:357.95999146px;line-height:1.25;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#9fd9f4;fill-opacity:1;stroke:none;stroke-width:8.94896889;"
+     x="321.1947"
+     y="573.26367"
+     id="text5461"
+     transform="scale(0.98739998,1.0127608)"
+     inkscape:export-xdpi="96"
+     inkscape:export-ydpi="96"><tspan
+       sodipodi:role="line"
+       id="tspan5459"
+       x="321.1947"
+       y="573.26367"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:357.95999146px;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#9fd9f4;fill-opacity:1;stroke-width:8.94896889;">'t</tspan></text>
+  <path
+     style="fill:#0f5d81;fill-opacity:1;stroke-width:1.30107021"
+     d="M 82.265576,159.01745 0.26765545,241.01537 V 309.7815 L 116.64992,193.39925 Z"
+     id="path7489"
+     inkscape:connector-curvature="0"
+     inkscape:export-xdpi="96"
+     inkscape:export-ydpi="96" />
+  <path
+     style="fill:#0f5d81;fill-opacity:1;stroke-width:1.30107021"
+     d="M 241.47896,-0.19593917 165.7399,75.54312 200.1217,109.92746 310.2451,-0.19593917 Z"
+     id="rect7442"
+     inkscape:connector-curvature="0"
+     inkscape:export-xdpi="96"
+     inkscape:export-ydpi="96" />
+  <rect
+     style="fill:none;fill-opacity:1;stroke:#0f5d81;stroke-width:7.80642128;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     id="rect7446-5"
+     width="20.484699"
+     height="31.6688"
+     x="-48.03727"
+     y="178.93257"
+     transform="rotate(-45)"
+     inkscape:export-xdpi="96"
+     inkscape:export-ydpi="96" />
+  <rect
+     style="fill:#0f5d81;fill-opacity:1;stroke:none;stroke-width:3.50914669;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     id="rect7444-5"
+     width="74.890793"
+     height="58.61018"
+     x="-13.933637"
+     y="165.59781"
+     transform="rotate(-45)"
+     inkscape:export-xdpi="96"
+     inkscape:export-ydpi="96" />
+</svg>
